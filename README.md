@@ -12,8 +12,6 @@ Cross-plattaform developer... and Backend Enginer</h1>
 
 <br>
 
-
-
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -24,6 +22,8 @@ Cross-plattaform developer... and Backend Enginer</h1>
 * 🧠  I'm learning Advanced Flutter
 * 🤝  I'm open to collaborating on Everyone! 👨‍👩‍👧‍👦
 * ⚡  I like so much to read Fantasy 📚
+  
+[![](https://visitcount.itsvg.in/api?id=Paz1Ws&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -76,47 +76,26 @@ Cross-plattaform developer... and Backend Enginer</h1>
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://github-trophies.vercel.app/?username=Paz1Ws&theme=onestar&no-frame=false&no-bg=false&margin-w=4"  width="800px" height="500px"></p>
   
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 
-</div>
+<a href="http://www.github.com/Paz1Ws"><img src="https://github-readme-stats.vercel.app/api?username=Paz1Ws&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Paz1Ws's GitHub stats" /></a>
 
-<br><br>
+<a href="http://www.github.com/Paz1Ws"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Paz1Ws&theme=highcontrast&hide_border=false" /></a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<em><b>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning. (Rick Cook)
 
-<h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</b></em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Christopher Paz</a></p>
