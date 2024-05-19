@@ -28,9 +28,9 @@ Cross-plattaform developer... and Backend Enginer</h1>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/christopher-paz-leon-745760202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24163146/paz1ws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="paz" height="30" width="40" /></a>
-<a href=(mailto:rewardmnx@gmail.com) target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"alt="paz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christopher-paz-leon-745760202/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24163146/paz1ws" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="paz" height="30" width="40" /></a>
+<a href="mailto:rewardmnx@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"alt="paz" height="30" width="40" /></a>
 
 <br>
 
