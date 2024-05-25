@@ -22,7 +22,7 @@ Cross-plattaform developer... and Backend Enginer</h1>
 * 🧠  I'm learning Advanced Flutter
 * 🤝  I'm open to collaborating on Everyone! 👨‍👩‍👧‍👦
 * ⚡  I like so much to read Fantasy 📚
-  
+* 🔣  I'm able to speak two languajes for now, English and Spanish, Japanese soon...
 [![](https://visitcount.itsvg.in/api?id=Paz1Ws&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <br>
