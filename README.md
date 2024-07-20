@@ -95,7 +95,7 @@ Cross-plattaform developer... and Backend Enginer</h1>
 
 
 
-<em><b>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning. (Rick Cook)
+<em><b>"Software is like eating chocolate: first you enjoy the taste, then you wonder what the hell you've done."
 
 </b></em>
 
