@@ -43,14 +43,14 @@ Flutter Cross-plattaform developer</h1>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,java" />
+    <img src="https://skillicons.dev/icons?i=cs,net" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,bots" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" />
   </a>
 </p>
 
@@ -58,7 +58,6 @@ Flutter Cross-plattaform developer</h1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,mysql" />
- <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width=45 heigth =40/>
   </a>
 </p>
 
@@ -66,7 +65,7 @@ Flutter Cross-plattaform developer</h1>
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,vscode,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
     
   </a>
 </p>
