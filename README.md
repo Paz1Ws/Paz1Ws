@@ -38,39 +38,7 @@ Cross-plattaform Mobile Engineer</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-  </a>
-</p>
-
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-    
-  </a>
-</p>
-
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
